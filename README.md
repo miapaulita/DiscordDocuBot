@@ -1,4 +1,4 @@
-# Discord PDF Preview Bot
+# DiscordDocuBot
 
 ## Overview
 This little bot handles all .pdf files sent on discord and makes them easy to preview without having to download! It generates a preview image from the first page of the PDF, and sends an embedded message with file details. It leverages **Discord.js** along with other libraries to enhance PDF sharing in Discord channels.
